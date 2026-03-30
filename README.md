@@ -4,6 +4,18 @@ Experimental, macOS-first Flutter desktop copilot for live calls, meetings, and 
 
 Private AI Ear listens to a selected macOS input source, turns speech into text, sends that transcript to an OpenAI-compatible API, and shows short, glanceable answers in a floating desktop window.
 
+## Quick demo
+
+<p align="center">
+  <a href="docs/demo/private-ai-ear-quick-demo.mp4">
+    <img src="docs/demo/private-ai-ear-quick-demo.gif" alt="Quick demo of Private AI Ear" width="1000" />
+  </a>
+</p>
+
+<p align="center">
+  Click the demo preview to open the full video.
+</p>
+
 ## Screenshots
 
 <p align="center">
